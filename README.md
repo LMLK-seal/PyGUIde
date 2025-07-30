@@ -183,11 +183,14 @@ We welcome contributions! Here's how you can help:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
+
 <div align="center">
 
 ### 🌟 **Star this repository if you find it helpful!** 🌟
 
 **Made with ❤️ for the Python community**
-*PyGUIde - Making Python development visual, interactive, and fun! 🚀*
+
+**PyGUIde - Making Python development visual, interactive, and fun! 🚀**
 </div>
