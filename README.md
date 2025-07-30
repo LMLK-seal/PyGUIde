@@ -179,26 +179,9 @@ We welcome contributions! Here's how you can help:
 4. Test thoroughly 🧪
 5. Submit a pull request 📤
 
-### 📋 **Development Setup**
-```bash
-# Clone the repository
-git clone <repository-url>
-
-# Install development dependencies
-pip install customtkinter
-
-# Run the application
-python PyGUIde.py
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-
-**Author:** LMLK-seal  
-**Email:** Yaniv.schwartz1@gmail.com  
 
 ---
 
