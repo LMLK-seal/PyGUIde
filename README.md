@@ -16,7 +16,7 @@
 - [🚀 Installation](#-installation)
 - [🎯 Quick Start](#-quick-start)
 - [📖 Usage Guide](#-usage-guide)
-- [🎨 Screenshots](#-screenshots)
+- [🎨 Main Interface](#-Main-Interface)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📧 Contact](#-contact)
