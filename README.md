@@ -6,6 +6,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![Version](https://img.shields.io/badge/Version-2.1.0-orange.svg)
 
+![Logo](https://github.com/LMLK-seal/PyGUIde/blob/main/logo.png?raw=true)
+
 *An educational Python development environment designed to make coding more visual and interactive.*
 
 </div>
@@ -19,7 +21,6 @@
 - [🎨 Main Interface](#-Main-Interface)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [📧 Contact](#-contact)
 
 ## ✨ Features
 
@@ -183,8 +184,6 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
 <div align="center">
 
 ### 🌟 **Star this repository if you find it helpful!** 🌟
@@ -192,18 +191,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the Python community**
 
 </div>
-
-## 🔮 Future Plans
-
-- [ ] 🎨 Enhanced syntax highlighting with more languages
-- [ ] 🔌 Plugin system for extensibility
-- [ ] 🌐 Git integration for version control
-- [ ] 🧪 Integrated testing framework
-- [ ] 📱 Mobile companion app
-- [ ] 🤖 AI-powered code suggestions
-- [ ] 📊 Advanced debugging tools
-- [ ] 🌍 Multi-language support
-
----
 
 *PyGUIde - Making Python development visual, interactive, and fun! 🚀*
