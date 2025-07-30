@@ -1,4 +1,4 @@
-# 🐍 PyGUIde - Interactive Python IDE
+# PyGUIde - Interactive Python IDE
 
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
