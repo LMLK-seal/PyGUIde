@@ -1,6 +1,5 @@
-<img width="975" height="756" alt="image" src="https://github.com/user-attachments/assets/1c7d193f-b97c-4181-af18-fc00d14fa9fe" /># 🐍 PyGUIde - Interactive Python IDE
+🐍 PyGUIde - Interactive Python IDE
 
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
